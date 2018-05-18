@@ -1,7 +1,7 @@
 ```
 1. install node v8.11.1
 2. npm i
-3. node appp.js
+3. node app.js
 4. curl http://127.0.0.1:3000/0x8277c7965b5d0e2e4469cf87ce08aa3f67f301a8
 ```
 
