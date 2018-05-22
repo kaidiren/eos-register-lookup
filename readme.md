@@ -6,13 +6,21 @@
 ```
 
 返回示例：
+response example:
 
 ```
 200 已绑定
+200 has bind
 {"info":"EOS7WVBwo3CYoPXuj3w8x7nMJJUyfqYTHB1vp9NH5Hp6itDNe8YJc"}
 
 200 未绑定
+200 not bind
 {"info":""}
 
 其他状态码都是出错了
+other codes are errors
 ```
+
+网页端示例 直接本地打开 index.html 使用
+
+web example: just open index.html and use
